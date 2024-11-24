@@ -22,6 +22,8 @@ INSTALLED_APPS = [
     "apps.core",
     "apps.gallery",
     "apps.farmers",
+    "apps.tasks",
+    "apps.tokens",
 ]
 
 MIDDLEWARE = [
