@@ -39,6 +39,6 @@ python manage.py runserver
 
 ## Contact
 
-Your Name - [akash.damle@outlook.com](mailto:akash.damle@outlook.com)
+Your Name - [Akash Damle <akash.damle@outlook.com>](mailto:akash.damle@outlook.com)
 
 Project Link: [https://github.com/code-kasha/fdms-api](https://github.com/code-kasha/fdms-api)
