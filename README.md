@@ -41,4 +41,4 @@ python manage.py runserver
 
 Your Name - [akash.damle@outlook.com@outlook.com](mailto:akash.damle@outlook.com)
 
-Project Link: [https://github.com/yourusername/yourproject](https://github.com/yourusername/yourproject)
+Project Link: [https://github.com/code-kasha/fdms-api](https://github.com/code-kasha/fdms-api)
